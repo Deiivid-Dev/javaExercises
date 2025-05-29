@@ -1,5 +1,3 @@
-package fizzbuzz;
-
 /*
  * Escribe un programa que muestre por consola (con un print) los
  * números de 1 al 100 (ambos incluidos y con un salto de línea entre
