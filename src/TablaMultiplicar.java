@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class TablaMultiplicar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int number = 0;
+        int number;
 
         System.out.println("------ Tabla de multiplicar ------");
 

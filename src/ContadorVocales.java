@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class ContadorVocales {
     public static void main(String[] args) {
 
-        String word = "";
+        String word;
         int cantVocales = 0;
         int cantVocalesA = 0;
         int cantVocalesE = 0;
